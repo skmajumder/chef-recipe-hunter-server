@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "cuisine": "Sushi & Sashimi"
+  },
+  {
+    "id": 2,
+    "cuisine": "Ramen"
+  },
+  {
+    "id": 3,
+    "cuisine": "Tempura"
+  },
+  {
+    "id": 4,
+    "cuisine": "Yakitori"
+  },
+  {
+    "id": 5,
+    "cuisine": "Udon"
+  },
+  {
+    "id": 6,
+    "cuisine": "Okonomiyaki"
+  },
+  {
+    "id": 7,
+    "cuisine": "Tonkatsu"
+  },
+  {
+    "id": 8,
+    "cuisine": "Takoyaki"
+  },
+  {
+    "id": 9,
+    "cuisine": "Sukiyaki"
+  },
+  {
+    "id": 10,
+    "cuisine": "Katsu Curry"
+  }
+]

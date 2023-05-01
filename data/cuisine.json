@@ -1,0 +1,264 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Sushi & Sashimi",
+    "recipe": "Fresh fish with expertly prepared rice.",
+    "ingredients": [
+      "sashimi-grade fish",
+      "sushi rice",
+      "nori",
+      "wasabi",
+      "soy sauce"
+    ],
+    "cooking_method": "Sushi and sashimi are both raw seafood dishes that require top-quality ingredients and precise preparation. For sushi, the fish is sliced and placed on top of a small mound of sushi rice that has been seasoned with vinegar, sugar, and salt. The two components are then gently pressed together to form a compact and flavorful bite. Sashimi, on the other hand, is simply thinly sliced raw fish that is served on its own or with a small amount of soy sauce and wasabi. Both dishes require great attention to detail in order to maintain the delicate flavors and textures of the seafood.",
+    "rating": 4.5
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Ramen",
+    "recipe": "Noodles in a savory broth with slices of tender pork.",
+    "ingredients": [
+      "pork bones",
+      "chicken bones",
+      "dried shiitake mushrooms",
+      "noodles",
+      "sliced pork belly"
+    ],
+    "cooking_method": "Ramen is a Japanese noodle dish that features hearty broth, chewy noodles, and a variety of toppings. The broth is typically made by simmering pork and chicken bones for several hours, along with aromatics like garlic, ginger, and scallions. The noodles are cooked separately and then added to the broth, along with slices of tender pork belly, bamboo shoots, nori, and soft-boiled eggs. The result is a deeply satisfying and flavorful bowl of comfort food.",
+    "rating": 4.2
+  },
+  {
+    "recipe_id": 3,
+    "recipe_name": "Tempura",
+    "recipe": "Lightly battered and fried seafood and vegetables.",
+    "ingredients": ["shrimp", "squid", "sweet potato", "broccoli", "asparagus"],
+    "cooking_method": "Tempura is a Japanese dish that features battered and deep-fried seafood and vegetables. The batter is made from a combination of flour, corn starch, and ice-cold water, which creates a light and crispy coating. The ingredients are then dipped in the batter and quickly fried in hot oil until golden brown. Tempura is typically served with a dipping sauce made from soy sauce, mirin, and dashi broth.",
+    "rating": 4.0
+  },
+  {
+    "recipe_id": 4,
+    "recipe_name": "Yakitori",
+    "recipe": "Grilled skewers of meat and vegetables coated in a sweet soy glaze.",
+    "ingredients": [
+      "chicken thighs",
+      "scallions",
+      "shiitake mushrooms",
+      "teriyaki sauce",
+      "sake"
+    ],
+    "cooking_method": "Yakitori is a Japanese dish that involves grilling skewers of bite-sized pieces of chicken, vegetables, and other ingredients over charcoal. Each skewer is brushed with a sweet and savory sauce made from soy sauce, mirin, sake, and sugar. The key to perfect yakitori is to cook each skewer slowly and evenly, so that all of the ingredients are cooked through but still juicy and tender.",
+    "rating": 4.4
+  },
+  {
+    "recipe_id": 5,
+    "recipe_name": "Okonomiyaki",
+    "recipe": "A savory pancake with a variety of fillings.",
+    "ingredients": ["flour", "eggs", "cabbage", "scallions", "pork belly"],
+    "cooking_method": "Okonomiyaki is a Japanese dish that combines a savory pancake batter with a variety of fillings. The batter is typically made from flour, eggs, and dashi broth, and is mixed with shredded cabbage, scallions, and other vegetables. Thinly sliced pork belly or seafood can also be added for extra flavor. The mixture is then poured onto a griddle or hot plate and cooked until golden brown on both sides. Okonomiyaki is usually topped with a sweet and savory sauce, mayo, and dried bonito flakes.",
+    "rating": 4.1
+  },
+  {
+    "recipe_id": 6,
+    "recipe_name": "Udon",
+    "recipe": "Thick noodles served in a flavorful broth with toppings like tempura and sliced scallions.",
+    "ingredients": [
+      "udon noodles",
+      "dashi broth",
+      "mirin",
+      "soy sauce",
+      "eggs"
+    ],
+    "cooking_method": "Udon is a type of Japanese noodle that is thicker than ramen or soba. The noodles are typically made from wheat flour and are served in a hot or cold broth made from dashi, soy sauce, and mirin. Toppings like tempura, sliced scallions, and kamaboko (fish cake) can be added to the dish for extra flavor and texture. Udon can also be served cold with a dipping sauce, which makes it a refreshing meal on a hot summer day.",
+    "rating": 4.3
+  },
+  {
+    "recipe_id": 7,
+    "recipe_name": "Tonkatsu",
+    "recipe": "Breaded and fried pork cutlets with a side of tonkatsu sauce.",
+    "ingredients": [
+      "pork loin",
+      "panko breadcrumbs",
+      "egg",
+      "tonkatsu sauce",
+      "cabbage"
+    ],
+    "cooking_method": "Tonkatsu is a popular Japanese dish that consists of breaded and deep-fried pork cutlets. The pork loin is pounded thin, then coated in flour, egg, and panko breadcrumbs before being fried until golden brown. Tonkatsu sauce, a sweet and tangy condiment made from worcestershire sauce, ketchup, soy sauce, and sugar, is usually served on the side for dipping. The dish is typically accompanied by shredded cabbage and rice.",
+    "rating": 4.2
+  },
+  {
+    "recipe_id": 8,
+    "recipe_name": "Gyoza",
+    "recipe": "Pan-fried dumplings filled with pork and veggies.",
+    "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce"],
+    "cooking_method": "Gyoza are Japanese-style dumplings that are typically filled with ground pork and vegetables like cabbage, garlic, and ginger. The filling is mixed with soy sauce, sesame oil, and other seasonings before being wrapped in a thin layer of dough. The dumplings can be boiled, steamed, or pan-fried until the bottoms are crispy and golden brown. Gyoza are usually served with a dipping sauce made from soy sauce, rice vinegar, and chili oil.",
+    "rating": 4.4
+  },
+  {
+    "recipe_id": 9,
+    "recipe_name": "Soba",
+    "recipe": "Thin noodles made from buckwheat flour served in a hot or cold broth.",
+    "ingredients": [
+      "soba noodles",
+      "dashi broth",
+      "mirin",
+      "soy sauce",
+      "scallions"
+    ],
+    "cooking_method": "Soba is a type of Japanese noodle that is made from buckwheat flour. The noodles can be served hot or cold and are typically paired with a flavorful broth made from dashi, soy sauce, and mirin. Toppings like sliced scallions, tempura, and kamaboko can be added to the dish for extra flavor and texture. Soba is a healthy and nutritious meal that is popular throughout Japan.",
+    "rating": 4.1
+  },
+  {
+    "recipe_id": 10,
+    "recipe_name": "Oden",
+    "recipe": "A hearty stew made with a variety of ingredients like boiled eggs, daikon radish, and fish cakes.",
+    "ingredients": [
+      "daikon radish",
+      "boiled eggs",
+      "fish cakes",
+      "konjac",
+      "soy sauce"
+    ],
+    "cooking_method": "Oden is a Japanese winter dish that features a variety of ingredients simmered in a light, flavorful broth. The dish typically includes ingredients like boiled eggs, daikon radish, fish cakes, konjac (a type of jelly made from the konjac yam), and sometimes meat or tofu. The broth is usually made from dashi, soy sauce, and mirin, and is simmered for several hours to infuse the ingredients with flavor. Oden is a comforting and hearty meal that is perfect for cold winter days.",
+    "rating": 4.0
+  },
+  {
+    "recipe_id": 11,
+    "recipe_name": "Karaage",
+    "recipe": "Japanese-style fried chicken with a crispy exterior and juicy interior.",
+    "ingredients": [
+      "chicken thighs",
+      "soy sauce",
+      "ginger",
+      "garlic",
+      "potato starch"
+    ],
+    "cooking_method": "Karaage is a popular Japanese dish that features bite-sized pieces of marinated chicken that are coated in potato starch and deep-fried until crispy and golden brown. The marinade is typically made from soy sauce, sake, ginger, and garlic, which gives the chicken a savory and slightly sweet flavor. The result is a juicy and flavorful piece of chicken that is perfect as a snack or served as part of a larger meal.",
+    "rating": 4.3
+  },
+  {
+    "recipe_id": 12,
+    "recipe_name": "Miso Soup",
+    "recipe": "A simple soup made with miso paste, seaweed, and tofu.",
+    "ingredients": [
+      "dashi broth",
+      "miso paste",
+      "tofu",
+      "wakame seaweed",
+      "scallions"
+    ],
+    "cooking_method": "Miso soup is a simple and comforting Japanese soup that features a flavorful broth made from dashi, miso paste, and other ingredients like tofu, wakame seaweed, and sliced scallions. The soup is typically prepared by simmering the dashi broth with the other ingredients until they are cooked through and the flavors have melded together. Miso soup is a staple in Japanese cuisine and is often served as part of a traditional breakfast.",
+    "rating": 4.0
+  },
+  {
+    "recipe_id": 13,
+    "recipe_name": "Shabu Shabu",
+    "recipe": "Thinly sliced beef and vegetables cooked in a hot pot and dipped in ponzu or sesame sauce.",
+    "ingredients": [
+      "thinly sliced beef",
+      "napa cabbage",
+      "enoki mushrooms",
+      "shiitake mushrooms",
+      "ponzu sauce"
+    ],
+    "cooking_method": "Shabu shabu is a type of Japanese hot pot that involves cooking thinly sliced beef and vegetables in a boiling pot of water or broth. The name shabu shabu comes from the swishing sound that the ingredients make when they are stirred in the pot. The cooked ingredients are then dipped in a variety of sauces, such as ponzu (a citrusy soy sauce) or sesame sauce, before being eaten. Shabu shabu is a fun and interactive meal that is perfect for sharing with friends and family.",
+    "rating": 4.2
+  },
+  {
+    "recipe_id": 14,
+    "recipe_name": "Takoyaki",
+    "recipe": "Small balls of batter filled with diced octopus and topped with mayo and takoyaki sauce.",
+    "ingredients": [
+      "octopus",
+      "flour",
+      "eggs",
+      "bonito flakes",
+      "takoyaki sauce"
+    ],
+    "cooking_method": "Takoyaki is a popular Japanese snack food that consists of small balls of batter filled with diced octopus, scallions, and other ingredients. The batter is poured into special molds and cooked on a hot plate until the outside is crispy and golden brown. The takoyaki balls are then topped with mayonnaise, takoyaki sauce (a sweet and savory condiment made from Worcestershire sauce and other ingredients), and bonito flakes. Takoyaki is a fun and delicious snack that is commonly found at street vendors and festivals in Japan.",
+    "rating": 4.1
+  },
+  {
+    "recipe_id": 15,
+    "recipe_name": "Yakiniku",
+    "recipe": "Grilled meat and vegetables served with dipping sauces.",
+    "ingredients": [
+      "thinly sliced beef",
+      "pork belly",
+      "assorted mushrooms",
+      "garlic",
+      "soy sauce"
+    ],
+    "cooking_method": "Yakiniku is a Japanese style of grilling where thin slices of meat and vegetables are cooked over an open flame. The meat can be marinated beforehand in a mixture of soy sauce, sugar, garlic, and other seasonings to enhance the flavor. The cooked meat and vegetables are typically served with a variety of dipping sauces, such as soy sauce, ponzu, and sesame sauce. Yakiniku is a fun and social meal that is perfect for gatherings with friends and family.",
+    "rating": 4.4
+  },
+  {
+    "recipe_id": 16,
+    "recipe_name": "Katsu Curry",
+    "recipe": "Breaded and fried pork or chicken cutlets served with a spicy curry sauce.",
+    "ingredients": [
+      "pork loin",
+      "chicken breast",
+      "panko breadcrumbs",
+      "curry powder",
+      "carrots"
+    ],
+    "cooking_method": "Katsu curry is a Japanese dish that features breaded and deep-fried pork or chicken cutlets served with a spicy curry sauce. The meat is first coated in flour, egg, and panko breadcrumbs before being fried until golden brown. The curry sauce is made by sautéing onions and carrots in oil, then adding curry powder and other seasonings to create a rich and flavorful sauce. The fried cutlets are then served on top of a bed of rice and smother in the curry sauce. Katsu curry is a popular dish in Japan and is often found on the menus of casual restaurants and cafes.",
+    "rating": 4.5
+  },
+  {
+    "recipe_id": 17,
+    "recipe_name": "Okonomiyaki",
+    "recipe": "A savory pancake filled with cabbage, pork belly, shrimp, and other ingredients.",
+    "ingredients": [
+      "flour",
+      "cabbage",
+      "pork belly",
+      "shrimp",
+      "okonomiyaki sauce"
+    ],
+    "cooking_method": "Okonomiyaki is a popular Japanese food that is often described as a savory pancake. It is made by mixing flour, grated yam, water, and eggs to make a batter, then adding shredded cabbage, sliced pork belly, shrimp, and other ingredients. The batter is then cooked on a griddle or hot plate until golden brown on both sides. Okonomiyaki is typically served with a variety of toppings, such as okonomiyaki sauce (a sweet and savory sauce similar to Worcestershire sauce), mayonnaise, and bonito flakes. It is a fun and filling meal that is perfect for sharing with friends and family.",
+    "rating": 4.3
+  },
+  {
+    "recipe_id": 18,
+    "recipe_name": "Yakitori",
+    "recipe": "Skewers of grilled chicken, vegetables, and other ingredients.",
+    "ingredients": [
+      "chicken thighs",
+      "scallions",
+      "shiitake mushrooms",
+      "soy sauce",
+      "mirin"
+    ],
+    "cooking_method": "Yakitori is a type of Japanese skewered chicken that is typically grilled over charcoal. The chicken is usually marinated beforehand in a mixture of soy sauce, mirin, and sake to enhance the flavor. Other ingredients like scallions, shiitake mushrooms, and peppers can also be skewered and grilled alongside the chicken. Yakitori is a popular street food in Japan and is often sold at festivals and outdoor markets.",
+    "rating": 4.2
+  },
+  {
+    "recipe_id": 19,
+    "recipe_name": "Matcha",
+    "recipe": "A type of green tea that is ground into a fine powder and used in various drinks and desserts.",
+    "ingredients": [
+      "matcha powder",
+      "hot water",
+      "milk",
+      "sugar",
+      "red bean paste"
+    ],
+    "cooking_method": "Matcha is a type of Japanese green tea that is made by grinding high-quality tea leaves into a fine powder. The powder is then whisked with hot water to make a frothy and flavorful tea. Matcha can also be used in a variety of drinks and desserts, such as matcha lattes, matcha ice cream, and matcha cakes. Red bean paste (anko) is a common ingredient used in matcha desserts, as it provides a sweet and creamy contrast to the bitter and earthy flavor of the matcha.",
+    "rating": 4.1
+  },
+  {
+    "recipe_id": 20,
+    "recipe_name": "Taiyaki",
+    "recipe": "A fish-shaped pastry filled with sweet red bean paste or other fillings.",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "baking powder",
+      "eggs",
+      "red bean paste"
+    ],
+    "cooking_method": "Taiyaki is a Japanese pastry that is shaped like a fish and filled with sweet red bean paste or other fillings like custard or chocolate. The batter is typically made from flour, sugar, baking powder, and eggs, and is poured into special taiyaki molds that are heated on a griddle or hot plate. The filling is then added to one side of the mold, and the other side is folded over to encase the filling. Taiyaki is a popular snack food in Japan and can be found at street vendors and festivals.",
+    "rating": 4.3
+  }
+]

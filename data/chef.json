@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "picture": "https://example.com/chef1.jpg",
+    "name": "Takeshi Miyamoto",
+    "experience_years": 12,
+    "bio": "Chef Takeshi is a master of ramen, having trained in several renowned ramen shops in Osaka and Tokyo.",
+    "num_recipes": [2, 6, 9, 10],
+    "likes": 2500
+  },
+  {
+    "id": 2,
+    "picture": "https://example.com/chef2.jpg",
+    "name": "Akiko Nakamura",
+    "experience_years": 8,
+    "bio": "Chef Akiko specializes in kaiseki cuisine, and loves to incorporate seasonal and local ingredients into her dishes.",
+    "num_recipes": [3, 4, 5, 7, 11, 14, 17],
+    "likes": 3800
+  },
+  {
+    "id": 3,
+    "picture": "https://example.com/chef3.jpg",
+    "name": "Masahiro Sato",
+    "experience_years": 18,
+    "bio": "Chef Masahiro is a well-known expert in the art of sushi-making, and is always experimenting with new flavor combinations.",
+    "num_recipes": [1, 4, 6, 7, 10, 13, 15, 16],
+    "likes": 6200
+  },
+  {
+    "id": 4,
+    "picture": "https://example.com/chef4.jpg",
+    "name": "Aya Takahashi",
+    "experience_years": 6,
+    "bio": "Chef Aya is a rising star in the world of Japanese cuisine, and is known for her modern and creative approach to traditional dishes.",
+    "num_recipes": [2, 5, 9, 13],
+    "likes": 1300
+  },
+  {
+    "id": 5,
+    "picture": "https://example.com/chef5.jpg",
+    "name": "Kenta Watanabe",
+    "experience_years": 9,
+    "bio": "Chef Kenta is a passionate advocate for sustainable seafood and uses only the freshest, most responsibly sourced ingredients in his dishes.",
+    "num_recipes": [1, 3, 6, 8, 10, 12, 15],
+    "likes": 1800
+  },
+  {
+    "id": 6,
+    "picture": "https://example.com/chef6.jpg",
+    "name": "Yumi Fujimoto",
+    "experience_years": 14,
+    "bio": "Chef Yumi is a master of udon and soba noodles, and is always experimenting with different broths and toppings.",
+    "num_recipes": [1, 3, 7, 18],
+    "likes": 4800
+  },
+  {
+    "id": 7,
+    "picture": "https://example.com/chef7.jpg",
+    "name": "Kazuo Nakamura",
+    "experience_years": 22,
+    "bio": "Chef Kazuo has been cooking for over two decades, and is known for his classic and authentic Japanese dishes.",
+    "num_recipes": [2, 4, 5, 6, 8, 11, 13, 16, 17],
+    "likes": 3400
+  },
+  {
+    "id": 8,
+    "picture": "https://example.com/chef8.jpg",
+    "name": "Eiko Tanaka",
+    "experience_years": 11,
+    "bio": "Chef Eiko is a talented pastry chef, and specializes in creating beautiful and delicious Japanese desserts.",
+    "num_recipes": [1, 7, 12, 15],
+    "likes": 5800
+  },
+  {
+    "id": 9,
+    "picture": "https://example.com/chef9.jpg",
+    "name": "Aiko Nakamura",
+    "experience_years": 8,
+    "bio": "Chef Aiko specializes in traditional Japanese sweets, using only the finest ingredients to create unique and delicate desserts.",
+    "num_recipes": [3, 5, 9, 10],
+    "likes": 1200
+  },
+  {
+    "id": 10,
+    "picture": "https://example.com/chef10.jpg",
+    "name": "Kenji Tanaka",
+    "experience_years": 7,
+    "bio": "Chef Kenji is a rising star in the world of Japanese fusion cuisine, blending traditional techniques with modern flavors to create exciting new dishes.",
+    "num_recipes": [1, 3, 2, 8, 6, 12, 15],
+    "likes": 800
+  }
+]
