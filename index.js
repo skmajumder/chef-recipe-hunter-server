@@ -17,16 +17,19 @@ app.get("/recipes", (req, res) => {
   res.send(recipes);
 });
 
-app.get("/chef", (req, res) => {
+app.get("/chefs", (req, res) => {
   res.send(chefs);
 });
 
-app.get("/chef/:id", (req, res) => {
+app.get("/chefs/:id", (req, res) => {
   const chefId = req.params.id;
-  console.log(chefId);
+  const singleChef = chefs.find((chef) => chef.id == chefId);
+  res.send(singleChef);
+});
 
+app.get("/chefs/recipes/:id", (req, res) => {
+  const chefId = req.params.id;
   const chefRecipesIds = chefs.find((chef) => chef.id == chefId)?.num_recipes;
-  
   const chefRecipes = recipes.filter((recipe) =>
     chefRecipesIds?.includes(recipe.recipe_id)
   );
@@ -34,5 +37,5 @@ app.get("/chef/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+  console.log(`App listening on port ${port}`);
 });
