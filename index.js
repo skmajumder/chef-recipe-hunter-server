@@ -2,15 +2,21 @@ const express = require("express");
 var cors = require("cors");
 
 const app = express();
-const port = 3000;
+const port = process.env.PORT || 3000;
 
-app.use(cors());
+const corsConfig = {
+  origin: "*",
+  credentials: true,
+  methods: ["GET", "POST", "PUT", "DELETE"],
+};
+
+app.use(cors(corsConfig));
 
 const chefs = require("./data/chef.json");
 const recipes = require("./data/cuisine.json");
 
 app.get("/", (req, res) => {
-  res.send("Express server is running at http://localhost:3000");
+  res.send("Express server at http://localhost:3000");
 });
 
 app.get("/recipes", (req, res) => {
