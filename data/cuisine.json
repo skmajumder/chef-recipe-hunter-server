@@ -2,6 +2,7 @@
   {
     "recipe_id": 1,
     "recipe_name": "Sushi & Sashimi",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Fresh fish with expertly prepared rice.",
     "ingredients": [
       "sashimi-grade fish",
@@ -16,6 +17,7 @@
   {
     "recipe_id": 2,
     "recipe_name": "Ramen",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Noodles in a savory broth with slices of tender pork.",
     "ingredients": [
       "pork bones",
@@ -30,6 +32,7 @@
   {
     "recipe_id": 3,
     "recipe_name": "Tempura",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Lightly battered and fried seafood and vegetables.",
     "ingredients": ["shrimp", "squid", "sweet potato", "broccoli", "asparagus"],
     "cooking_method": "Tempura is a Japanese dish that features battered and deep-fried seafood and vegetables. The batter is made from a combination of flour, corn starch, and ice-cold water, which creates a light and crispy coating. The ingredients are then dipped in the batter and quickly fried in hot oil until golden brown. Tempura is typically served with a dipping sauce made from soy sauce, mirin, and dashi broth.",
@@ -38,6 +41,7 @@
   {
     "recipe_id": 4,
     "recipe_name": "Yakitori",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Grilled skewers of meat and vegetables coated in a sweet soy glaze.",
     "ingredients": [
       "chicken thighs",
@@ -52,6 +56,7 @@
   {
     "recipe_id": 5,
     "recipe_name": "Okonomiyaki",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "A savory pancake with a variety of fillings.",
     "ingredients": ["flour", "eggs", "cabbage", "scallions", "pork belly"],
     "cooking_method": "Okonomiyaki is a Japanese dish that combines a savory pancake batter with a variety of fillings. The batter is typically made from flour, eggs, and dashi broth, and is mixed with shredded cabbage, scallions, and other vegetables. Thinly sliced pork belly or seafood can also be added for extra flavor. The mixture is then poured onto a griddle or hot plate and cooked until golden brown on both sides. Okonomiyaki is usually topped with a sweet and savory sauce, mayo, and dried bonito flakes.",
@@ -60,6 +65,7 @@
   {
     "recipe_id": 6,
     "recipe_name": "Udon",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Thick noodles served in a flavorful broth with toppings like tempura and sliced scallions.",
     "ingredients": [
       "udon noodles",
@@ -74,6 +80,7 @@
   {
     "recipe_id": 7,
     "recipe_name": "Tonkatsu",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Breaded and fried pork cutlets with a side of tonkatsu sauce.",
     "ingredients": [
       "pork loin",
@@ -88,6 +95,7 @@
   {
     "recipe_id": 8,
     "recipe_name": "Gyoza",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Pan-fried dumplings filled with pork and veggies.",
     "ingredients": ["ground pork", "cabbage", "garlic", "ginger", "soy sauce"],
     "cooking_method": "Gyoza are Japanese-style dumplings that are typically filled with ground pork and vegetables like cabbage, garlic, and ginger. The filling is mixed with soy sauce, sesame oil, and other seasonings before being wrapped in a thin layer of dough. The dumplings can be boiled, steamed, or pan-fried until the bottoms are crispy and golden brown. Gyoza are usually served with a dipping sauce made from soy sauce, rice vinegar, and chili oil.",
@@ -96,6 +104,7 @@
   {
     "recipe_id": 9,
     "recipe_name": "Soba",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Thin noodles made from buckwheat flour served in a hot or cold broth.",
     "ingredients": [
       "soba noodles",
@@ -110,6 +119,7 @@
   {
     "recipe_id": 10,
     "recipe_name": "Oden",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "A hearty stew made with a variety of ingredients like boiled eggs, daikon radish, and fish cakes.",
     "ingredients": [
       "daikon radish",
@@ -124,6 +134,7 @@
   {
     "recipe_id": 11,
     "recipe_name": "Karaage",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Japanese-style fried chicken with a crispy exterior and juicy interior.",
     "ingredients": [
       "chicken thighs",
@@ -138,6 +149,7 @@
   {
     "recipe_id": 12,
     "recipe_name": "Miso Soup",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "A simple soup made with miso paste, seaweed, and tofu.",
     "ingredients": [
       "dashi broth",
@@ -152,6 +164,7 @@
   {
     "recipe_id": 13,
     "recipe_name": "Shabu Shabu",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Thinly sliced beef and vegetables cooked in a hot pot and dipped in ponzu or sesame sauce.",
     "ingredients": [
       "thinly sliced beef",
@@ -166,6 +179,7 @@
   {
     "recipe_id": 14,
     "recipe_name": "Takoyaki",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Small balls of batter filled with diced octopus and topped with mayo and takoyaki sauce.",
     "ingredients": [
       "octopus",
@@ -180,6 +194,7 @@
   {
     "recipe_id": 15,
     "recipe_name": "Yakiniku",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Grilled meat and vegetables served with dipping sauces.",
     "ingredients": [
       "thinly sliced beef",
@@ -194,6 +209,7 @@
   {
     "recipe_id": 16,
     "recipe_name": "Katsu Curry",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Breaded and fried pork or chicken cutlets served with a spicy curry sauce.",
     "ingredients": [
       "pork loin",
@@ -208,6 +224,7 @@
   {
     "recipe_id": 17,
     "recipe_name": "Okonomiyaki",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "A savory pancake filled with cabbage, pork belly, shrimp, and other ingredients.",
     "ingredients": [
       "flour",
@@ -222,6 +239,7 @@
   {
     "recipe_id": 18,
     "recipe_name": "Yakitori",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "Skewers of grilled chicken, vegetables, and other ingredients.",
     "ingredients": [
       "chicken thighs",
@@ -236,6 +254,7 @@
   {
     "recipe_id": 19,
     "recipe_name": "Matcha",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "A type of green tea that is ground into a fine powder and used in various drinks and desserts.",
     "ingredients": [
       "matcha powder",
@@ -250,6 +269,7 @@
   {
     "recipe_id": 20,
     "recipe_name": "Taiyaki",
+    "recipe_img": "https://images.pexels.com/photos/248444/pexels-photo-248444.jpeg",
     "recipe": "A fish-shaped pastry filled with sweet red bean paste or other fillings.",
     "ingredients": [
       "flour",
